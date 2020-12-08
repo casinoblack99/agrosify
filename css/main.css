@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-nav{
+    padding-left: 30% !important;
+
+}
+.nav-item{
+    padding-left: 20px;
+    text-transform: capitalize !important;
+
+} 
+.nav-link{
+    color: black !important;
+    font-size: 16px;
+   
+}
+
+.navbar .navbar-expand-lg{
+    width: 100% !important;
+}
+
+.btn1{
+    margin-left: 15px;
+    /* width: 60%; */
+    background-color: #4E8f02;
+    height: 6vh;
+    color:white;
+    border-radius: 5px;
+    border: none;
+}
+.collapse .btn{
+    /* width: 7%; */
+}
+
+
+.carousel-item-1{
+    background-image: url(../images/Group\ 1\ -\ Copy.png);
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.point-1{
+    text-align: center;
+    padding-top: 18%;
+    color: white;
+}
+.masthead-subheading {
+    font-size: 45px;
+    padding-top: 20px;
+}
+
+.masthead-heading{
+    font-weight: lighter;
+} 
+.point-1 .btn{
+    margin-top:20px !important;
+    color: white;
+    /* width: 10% !important; */
+}
+.point-1 .btn :hover{
+    color: #4E8f02 !important ;
+    background-color: white !important;
+}
+.imgs{
+    margin-right: 50px;
+}
+.foam-control{
+    display: flex;
+    /* justify-content: space-evenly; */
+
+}
+.mart{
+    /* padding-bottom: 10%; */
+    padding-left: 11%;
+}
+.mart-one{
+    font-size: 20px;
+    color: #4E8f02;
+    padding-top: 20px;
+}
+.mart-three{
+    font-size: 30px;
+    color: #4b3049;
+    padding-top: 15px;
+}
+.mart-two{
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.victor-two{
+    position: relative;
+    /* right:%; */
+    height: 45vh;
+    width: 60%;
+    bottom:30%;
+    margin-left: 27%;
+}
+.victor-one{
+    position: relative;
+    left: 15%;
+    height: 45vh;
+    width: 60%;
+    
+}
+.control{
+    margin-top: 8%;
+}
+/* .victor{
+    margin-left:%;
+} */
+@media(max-width: 844px){
+    .foam-control{
+        display: block;
+    }
+}
+.imgss{
+    align-items: center !important;
+    /* margin-left: 35%; */
+    width: 20%;
+}
+.king{
+    align-items: center;
+    text-align: center;
+}
+.subheading{
+    font-size: 20px;
+    color: #4E8f02;
+    font-weight:500;
+    
+}
